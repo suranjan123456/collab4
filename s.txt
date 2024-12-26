@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 Santosh
+=======
+<<<<<<< HEAD
+Payal akka ge jaii
+
+=======
+vinni mamu
+>>>>>>> bcb2349965af54da5036dd99362a0d328783e519
+>>>>>>> 05743696e48e867db444ffd550568aef96ea5e49
